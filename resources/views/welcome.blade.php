@@ -3,29 +3,19 @@
 @section('content')
     <!-- Heading Row -->
     <div class="row">
-        <div class="col-md-8">
-            <img class="img-responsive img-rounded" src="https://placehold.it/900x350" alt="">
-        </div>
         <div class="col-md-4">
-            <h1>Business Name or Tagline</h1>
-            <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
-            <a class="btn btn-primary btn-lg" href="#">Call to Action!</a>
+            <img class="img-responsive img-rounded" src="https://placehold.it/350x400" alt="">
+        </div>
+        <div class="col-md-8">
+            <h1>Dr Michel Augusti</h1>
+            <p>Bienvenue sur le site du Docteur Michel Augusti, chirurgien urologue exerçant en Haute-Normandie et plus particulièrement dans la région dieppoise et rouennaise. Sur ce site sont présentés les pathologies prises en charge, l'équipe du chirurgien et ses lieux d'exercice.<br>
+            <br>
+            Bonne visite !</p>
         </div>
     </div>
-
 
     <hr>
 
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="well text-center">
-                This is a well that is a great spot for a business tagline or phone number for easy access!
-            </div>
-        </div>
-
-    </div>
-
-    <!-- Content Row -->
     <div class="row">
         <div class="col-md-4">
             <h2>Heading 1</h2>

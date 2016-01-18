@@ -8,7 +8,10 @@ body {
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
-    margin-top: 12px;
+    margin-top: 13px;
+    font-family: 'Martel', serif;
+    font-weight: 700;
+    margin-right: 50px
 }
 
 footer {
