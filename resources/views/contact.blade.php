@@ -57,7 +57,9 @@
         1328 avenue de la Maison Blanche<br>
         76550 Saint-Aubin-sur-Scie<br>
       </div>
-      <img class="img-responsive img-rounded" src="https://placehold.it/550x250" alt="">
+      <div class="google-maps">
+        <iframe width="500" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Clinique+M%C3%A9gival+1328+avenue+de+la+Maison+Blanche+76550+Saint-Aubin-sur-Scie&amp;aq=&amp;sll=49.897509,1.073828&amp;sspn=0.030464,0.084028&amp;ie=UTF8&amp;hq=Clinique+M%C3%A9gival+1328+avenue+de+la+Maison+Blanche+76550+Saint-Aubin-sur-Scie&amp;hnear=&amp;radius=15000&amp;t=m&amp;cid=17129801944216765867&amp;ll=49.895298,1.078377&amp;spn=0.066349,0.171318&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
+      </div>
       </p>
     </div>
 </div>
