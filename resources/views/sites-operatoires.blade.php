@@ -13,7 +13,7 @@
 {{-- Mégival --}}
 <div class="row">
     <div class="col-md-6">
-      <h2><span class="badge">Dieppe</span> Clinique Mégival</h2>
+      <h2><span class="badge badge-lieu">Dieppe</span> Clinique Mégival</h2>
         La <a href="http://www.megival.com" title="Clinique Mégival">clinique Mégival</a> est située en périphérie de Dieppe, à l'adresse suivante :<br>
       <div class="adresse-physique">
         Clinique Mégival<br>
@@ -44,7 +44,7 @@
 {{-- Les Aubépines --}}
 <div class="row">
     <div class="col-md-6">
-      <h2><span class="badge">Dieppe</span> Clinique des Aubépines</h2>
+      <h2><span class="badge badge-lieu">Dieppe</span> Clinique des Aubépines</h2>
         La <a href="http://www.clinique-des-aubepines.fr/html/chirurgie.htm" title="Clinique des Aubépines">clinique des Aubépines</a> est située en périphérie de Dieppe, à proximité de la Clinique Mégival, à l'adresse suivante :<br>
       <div class="adresse-physique">
         Clinique des Aubépines<br>
@@ -69,7 +69,7 @@
 {{-- Saint-Hilaire --}}
 <div class="row">
     <div class="col-md-6">
-      <h2><span class="badge">Rouen</span> Clinique Saint-Hilaire</h2>
+      <h2><span class="badge badge-lieu">Rouen</span> Clinique Saint-Hilaire</h2>
         La <a href="http://www.clinique-sainthilaire.fr" title="Clinique Saint-Hilaire">clinique Saint-Hilaire</a> est située, à proximité du CHU de Rouen, à l'adresse suivante :<br>
       <div class="adresse-physique">
         Clinique Saint-Hilaire<br>

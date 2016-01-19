@@ -13,4 +13,7 @@ Route::group(['middleware' => []], function () {
     Route::get('sites-operatoires', [
         'as' => 'sites-operatoires', 'uses' => 'PagesController@sitesOperatoires'
     ]);
+    Route::get('consultations', [
+        'as' => 'consultations', 'uses' => 'PagesController@consultations'
+    ]);
 });
