@@ -9,7 +9,7 @@
         <div class="col-md-8">
             <h1>Dr Michel Augusti</h1>
             <p>Bienvenue sur le site du Docteur Michel Augusti, chirurgien urologue exerçant en Haute-Normandie et plus particulièrement dans la région dieppoise et rouennaise. Sur ce site sont présentés les pathologies prises en charge, l'équipe du chirurgien et ses lieux d'exercice.</p>
-            <p>Le Docteur Michel Augusti est un ancien interne des Hôpitaux de Paris, ancien Chef de Clinique à la Faculté, est impliqué dans la Haute Autorité de la Santé (HAS) et participe activement à la lutte contre la cancérologie. Il prend en charge les pathologies urologiques de l'enfant (ancien Chef de Clinique à Paris Necker enfants-malades) et également des pathologies masculines et féminines (cancérologie, andrologie et incontinence). Son numéro RPPS est le 10001914158.</p>
+            <p>Le Docteur Michel Augusti est un ancien interne des Hôpitaux de Paris, ancien Chef de Clinique à la Faculté, est impliqué dans la Haute Autorité de la Santé (HAS) et participe activement à la lutte contre le cancer. Il prend en charge les pathologies urologiques de l'enfant (ancien Chef de Clinique à Paris Necker enfants-malades) et également des pathologies masculines et féminines (cancérologie, andrologie et incontinence). Son numéro RPPS est le 10001914158.</p>
             <p>Bonne visite !</p>
         </div>
     </div>
