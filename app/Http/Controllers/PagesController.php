@@ -15,4 +15,9 @@ class PagesController extends Controller
     {
         return view('juridique')->withTitle('Informations juridiques');
     }
+
+    public function sitesOperatoires()
+    {
+        return view('sites-operatoires')->withTitle('Sites opératoires');
+    }
 }

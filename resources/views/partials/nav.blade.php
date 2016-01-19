@@ -12,7 +12,8 @@
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="{{ route('contact') }}">Contact</a></li>
+        <li><a href="{{ route('sites-operatoires') }}" title="Sites opératoires">Sites opératoires</a></li>
+        <li><a href="{{ route('contact') }}" title="Contact et prise de rendez-vous">Contact</a></li>
       </ul>
     </div>
   </div>
