@@ -4,7 +4,7 @@
     <!-- Heading Row -->
     <div class="row">
         <div class="col-md-4">
-            <img class="img-responsive img-rounded" src="https://placehold.it/350x400" alt="">
+            <img class="img-responsive img-rounded" src="assets/images/michel-augusti.jpg" alt="Michel Augusti">
         </div>
         <div class="col-md-8">
             <h1>Dr Michel Augusti</h1>
