@@ -10,4 +10,9 @@ class PagesController extends Controller
     {
         return view('contact')->withTitle('Contact');
     }
+
+    public function juridique()
+    {
+        return view('juridique')->withTitle('Informations juridiques');
+    }
 }

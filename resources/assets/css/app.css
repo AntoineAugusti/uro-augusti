@@ -11,7 +11,8 @@ p {
   margin: 15px 0 30px 20px; }
 
 .secretariat-contact {
-  padding: 3px 5px; }
+  padding: 3px 5px;
+  margin-right: 8px; }
 
 .google-maps {
   position: relative;

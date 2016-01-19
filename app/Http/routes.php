@@ -7,4 +7,7 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('contact', [
         'as' => 'contact', 'uses' => 'PagesController@contact'
     ]);
+    Route::get('juridique', [
+        'as' => 'juridique', 'uses' => 'PagesController@juridique'
+    ]);
 });
