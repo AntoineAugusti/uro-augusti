@@ -1,5 +1,7 @@
 @extends('partials.master')
 
+<?php $jour = date('N'); ?>
+
 @section('content')
 <div class="row">
     <div class="col-md-6">
@@ -14,23 +16,23 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
+          <tr @if ($jour == '1') class="info" @endif>
             <td>Lundi</td>
             <td>9h00-12h00</td>
           </tr>
-          <tr>
+          <tr @if ($jour == '2') class="info" @endif>
             <td>Mardi</td>
             <td>9h00-17h00</td>
           </tr>
-          <tr>
+          <tr @if ($jour == '3') class="info" @endif>
             <td>Mercredi</td>
             <td>9h00-12h00</td>
           </tr>
-          <tr>
+          <tr @if ($jour == '4') class="info" @endif>
             <td>Jeudi</td>
             <td>9h00-17h00</td>
           </tr>
-          <tr>
+          <tr @if ($jour == '5') class="info" @endif>
             <td>Vendredi</td>
             <td>9h00-17h00</td>
           </tr>
