@@ -42,18 +42,27 @@
         <button type="button" class="btn btn-info secretariat-contact" aria-label="Téléphone">
         <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
         </button>
-        02 76 20 30 70
+        <a href="tel:+33276203070">02 76 20 30 70</a>
+
       </p>
-      <h3>Mise en garde</h3>
-      Pendant la fermeture du secrétariat, appelez si besoin la Clinique Mégival au 02 76 20 30 40.<br>
-      <br>
-      Le secrétariat n'est pas un moyen d'obtenir des renseignements de nature médicale. En cas de situation urgente ou confuse, contactez les urgences en téléphonant au 15 ou au 112.
+
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Mise en garde</h3>
+        </div>
+        <div class="panel-body">
+          Pendant la fermeture du secrétariat, appelez si besoin la Clinique Mégival au <a href="tel:+33276203040">02 76 20 30 40</a>.<br>
+          <br>
+          Le secrétariat n'est pas un moyen d'obtenir des renseignements de nature médicale. En cas de situation urgente ou confuse, contactez les urgences en téléphonant au <a href="tel:15">15</a> ou au <a href="tel:122">112</a>.
+        </div>
+      </div>
     </div>
     <div class="col-md-6">
       <h2>Clinique Mégival</h2>
       <p>
         Le Docteur Michel Augusti consulte principalement à la Clinique Mégival. La clinique Mégival est située en périphérie de Dieppe, à l'adresse suivante:<br>
       <div class="megival-contact">
+        Clinique Mégival<br>
         1328 avenue de la Maison Blanche<br>
         76550 Saint-Aubin-sur-Scie<br>
       </div>

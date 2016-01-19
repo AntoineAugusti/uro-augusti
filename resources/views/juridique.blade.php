@@ -20,6 +20,23 @@
     <p>
       À cette date, le Docteur Michel Augusti n’a aucun lien d’intérêts concernant les données diffusées sur ce site.
     </p>
+  <h2>Contact</h2>
+    <p>
+      Le Docteur Michel Augusti est joignable à l'adresse email suivante.<br>
+      <button type="button" class="btn btn-info secretariat-contact" aria-label="Téléphone">
+        <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+      </button>
+      <a href="mailto:m.augusti@megival.fr">m.augusti@megival.fr</a>
+
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Mise en garde</h3>
+        </div>
+        <div class="panel-body">
+          L'envoi d'un email au Docteur Augusti n'est pas un moyen d'obtenir des renseignements de nature médicale et ne permet pas de prendre des rendez-vous. La prise de rendez-vous peut s'effectuer <a href="{{ route('contact') }}">par téléphone</a>.
+        </div>
+      </div>
+    </p>
 
   </div>
   <div class="col-md-8">
