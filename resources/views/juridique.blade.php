@@ -24,7 +24,7 @@
     <p>
       Le Docteur Michel Augusti est joignable à l'adresse email suivante.<br>
       <button type="button" class="btn btn-info secretariat-contact" aria-label="Téléphone">
-        <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
       </button>
       <a href="mailto:m.augusti@megival.fr">m.augusti@megival.fr</a>
 
