@@ -1,0 +1,22 @@
+# Modifier le texte des pages
+Cliquer sur le lien correspondant à la page que l'on veut modifier.
+
+Liste des pages :
+- **Accueil**: [resources/views](resources/views/accueil.blade.php)
+- **Consultations**: [resources/views](resources/views/Consultations.blade.php)
+- **Contact**: [resources/views](resources/views/contact.blade.php)
+- **Informations légales**: [resources/views](resources/views/Juridique.blade.php)
+- **Sites opératoires**: [resources/views](resources/views/sites-operatoires.blade.php)
+
+Cliquer sur le crayon, dans la barre en haut à droite pour éditer le texte.
+![Alt text](edit.png)
+
+Descendre jusqu'en bas de page, et remplir un message explicatif du changement.
+![Alt text](commit.png)
+
+Cliquer sur le gros bouton vert et attendre 1 minute ou 2 pour voir les changements en ligne.
+
+# En cas de problème
+Attention à ne pas enlever les balises autour du texte, sinon tout ceci va être cassé.
+
+Dans tous les cas, me contacter ;)
