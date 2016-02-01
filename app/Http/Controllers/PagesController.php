@@ -21,6 +21,11 @@ class PagesController extends Controller
         return view('sites-operatoires')->withTitle('Sites opératoires');
     }
 
+    public function equipe()
+    {
+        return view('equipe')->withTitle("L'équipe");
+    }
+
     public function consultations()
     {
         return view('consultations')->withTitle('Consultations et honoraires');

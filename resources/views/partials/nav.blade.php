@@ -14,6 +14,7 @@
       <ul class="nav navbar-nav">
         <li><a href="{{ route('consultations') }}" title="Consultations">Consultations</a></li>
         <li><a href="{{ route('sites-operatoires') }}" title="Sites opératoires">Sites opératoires</a></li>
+        <li><a href="{{ route('equipe') }}" title="L'équipe">L'équipe</a></li>
         <li><a href="{{ route('contact') }}" title="Contact et prise de rendez-vous">Contact</a></li>
       </ul>
     </div>
