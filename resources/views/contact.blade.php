@@ -62,7 +62,7 @@
     <div class="col-md-6">
       <h2>Clinique Mégival</h2>
       <p>
-        Le Docteur Michel Augusti consulte principalement à la Clinique Mégival. La clinique Mégival est située en périphérie de Dieppe, à l'adresse suivante :<br>
+        Le Docteur Michel Augusti consulte à la Clinique Mégival. La clinique Mégival est située en périphérie de Dieppe, à l'adresse suivante :<br>
       <div class="adresse-physique">
         Clinique Mégival<br>
         1328 avenue de la Maison Blanche<br>
