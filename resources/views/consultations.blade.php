@@ -15,7 +15,7 @@
         Le Docteur Michel Augusti est un chirurgien spécialiste <em>conventionné secteur 2</em>. Les tarifs usuellement pratiqués par le Docteur Michel Augusti sont visibles sur <a href="http://annuairesante.ameli.fr/nouvelle-recherche/professionnels-de-sante.html">le site de l'Assurance Maladie</a>. Le montant des honoraires est fixé en consultation et un devis est établi et vous sera expliqué. Il mentionne la codification de l'acte, le montant de base et le montant d'un éventuel complément d'honoraire.
       </p>
       <p>
-        Ce devis vous permet lors d'un simple appel téléphonique à votre mutuelle d'obtenir le montant de votre remboursement et ce qui restera éventuellement à votre charge.
+        Ce devis vous permet lors d'un simple appel téléphonique à votre mutuelle d'obtenir le montant de votre remboursement et ce qui restera éventuellement à votre charge (RAC).
       </p>
     </div>
 </div>
