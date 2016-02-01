@@ -18,23 +18,23 @@
         <tbody>
           <tr @if ($jour == '1') class="info" @endif>
             <td>Lundi</td>
-            <td>9h00-12h00</td>
+            <td>9h-12h</td>
           </tr>
           <tr @if ($jour == '2') class="info" @endif>
             <td>Mardi</td>
-            <td>9h00-17h00</td>
+            <td>9h-13h et 14h-17h</td>
           </tr>
           <tr @if ($jour == '3') class="info" @endif>
             <td>Mercredi</td>
-            <td>9h00-12h00</td>
+            <td>9h-12h</td>
           </tr>
           <tr @if ($jour == '4') class="info" @endif>
             <td>Jeudi</td>
-            <td>9h00-17h00</td>
+            <td>9h-13h et 14h-17h</td>
           </tr>
           <tr @if ($jour == '5') class="info" @endif>
             <td>Vendredi</td>
-            <td>9h00-17h00</td>
+            <td>9h-13h et 14h-16h</td>
           </tr>
         </tbody>
       </table>
