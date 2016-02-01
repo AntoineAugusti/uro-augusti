@@ -2,6 +2,13 @@
 
 @section('content')
 <div class="row">
+    <div class="col-md-12">
+      <p>
+        Les consultations se font exclusivement par rendez-vous sur le site de la Clinique Mégival. Vous pouvez consulter directement sans passer par votre médecin traitant, mais dans ce cas, vous aurez un remboursement moindre par l'Assurance Maladie. Si vous êtes en suivi, il n'y a pas besoin de courrier de la part de votre médecin traitant.
+      </p>
+
+      <a class="btn btn-default" href="{{ route('contact') }}">Prendre rendez-vous</a>
+    </div>
     <div class="col-md-6">
       <h2>Honoraires médicaux en clinique</h2>
       <p>À l'hôpital, les médecins sont salariés : ils touchent un salaire fixe quelque soit leur activité. En clinique, l'Assurance Maladie rémunère les médecins en fonction de leur activité, c'est la rémunération <em>à l'acte</em>.</p>
