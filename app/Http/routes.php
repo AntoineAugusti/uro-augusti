@@ -19,4 +19,7 @@ Route::group(['middleware' => []], function () {
     Route::get('equipe', [
         'as' => 'equipe', 'uses' => 'PagesController@equipe'
     ]);
+    Route::get('hospitalisation', [
+        'as' => 'hospitalisation', 'uses' => 'PagesController@hospitalisation'
+    ]);
 });

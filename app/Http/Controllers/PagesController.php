@@ -30,4 +30,9 @@ class PagesController extends Controller
     {
         return view('consultations')->withTitle('Consultations et honoraires');
     }
+
+    public function hospitalisation()
+    {
+        return view('hospitalisation')->withTitle("L'hospitalisation");
+    }
 }

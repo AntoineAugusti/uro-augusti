@@ -47,3 +47,25 @@ footer {
     vertical-align:middle;
     margin-right:-4px;
 }
+
+.charte__container {
+    height:100%;
+    border-left: 3px solid transparent;
+    margin-bottom: 25px;
+
+    @media only screen and (max-device-width : 768px) {
+        margin-left: 10px;
+    }
+}
+
+.charte__titre-presentation {
+    margin: 40px 0 70px 0;
+}
+
+.charte__titre {
+    font-family: 'Martel', serif;
+    font-weight: 700;
+    line-height: 1.6em;
+    margin: 20px 0;
+    font-size: 19px;
+}
