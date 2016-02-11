@@ -5,6 +5,14 @@
 @section('content')
   <div class="row">
     <div class="col-xs-12">
+      <h1>Préparation à l'hospitalisation</h1>
+      <p>
+        En cas d'anesthésie, vous devez préalablement voir un anesthésiste dans la clinique où vous serez pris en charge. Il faut alors venir avec votre dossier médical, la fiche d'admission et les résultats des examens complémentaires et radiographies disponibles. Les prise de rendez-vous se font par téléphone, la plupart du temps par un secrétariat téléphonique dédié.
+      </p>
+      <p>
+        Une fois la consultation d'anesthésie faites, il faudra alors passer à la phase d'admission. Cela se passe au "bureau des admissions" des différents établissements. La prise en charge administrative nécessite une pièce d'identité, votre carte vitale à jour et la "prise en charge" de votre mutuelle.
+      </p>
+
       <h1>Charte du patient hospitalisé</h1>
       <p>
         L'objectif de la présente charte est de faire connaître aux personnes malades, accueillies dans les établissements de santé, leurs droits essentiels tels qu'ils sont affirmés par les lois aux droits des malades et à la qualité du système de santé.

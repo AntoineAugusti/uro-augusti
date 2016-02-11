@@ -26,13 +26,13 @@
         </div>
         <div class="col-md-4">
             <h2>L'équipe</h2>
-            <p>Au bloc opératoire, l'aide est Béatrice. Plusieurs panseurs sont formés à l'urologie pour gérer toutes les situations. Dans les étages d'hospitalisation conventionnelle, vous serez pris en charge par une équipe formée à l'urologie.</p>
+            <p>Au bloc opératoire, l'aide est Béatrice. Plusieurs panseuses et panseurs sont formés à l'urologie pour gérer toutes les situations. Dans les étages d'hospitalisation conventionnelle, vous serez pris en charge par une équipe formée à l'urologie.</p>
             <a class="btn btn-default" href="{{ route('equipe') }}">Voir toute l'équipe et le bloc</a>
         </div>
         <div class="col-md-4">
             <h2>L'hospitalisation</h2>
             <p>Si vous devez être hospitalisé, vous serez pris en charge par une équipe formée et attentionnée. La charte de la personne hospitalisée assure votre bien être et vous confère des droits lors de votre hospitalisation.</p>
-            <a class="btn btn-default" href="{{ route('hospitalisation') }}">Comment se déroule l'hospitalisation</a>
+            <a class="btn btn-default" href="{{ route('hospitalisation') }}">Préparation et déroulement de l'hospitalisation</a>
         </div>
     </div>
 @stop
