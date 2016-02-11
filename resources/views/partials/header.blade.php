@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Michel Augusti"/>
     <meta name="publisher" content="Michel Augusti"/>
+    <meta name="google-site-verification" content="yIrmHc13V2t9G-Boeq4ES83JmLnUFGugld0I8KjIFRA" />
     @if (isset($title))
         <title>{{ $title }} - Dr Michel Augusti</title>
     @else
