@@ -47,7 +47,7 @@
     <div class="panel panel-default">
       <div class="panel-heading">Comment sont fixés les honoraires ?</div>
       <div class="panel-body">
-        Les principaux critères de jugements sont la difficulté technique, la durée de l'acte opératoire, le degré de spécialisation, la qualification et l'expérience acquise. Ceux-ci permettent au praticien de définir le montant de ses honoraires. Le médecin peut décider de fixer en fonction de ces critères le prix de l'acte en utilisant un facteur multiplicatif du montant de base de l'acte, ou de n'appliquer aucun complément.
+        Les principaux critères de jugements sont la difficulté technique, la durée de l'acte opératoire, le degré de spécialisation, la qualification et l'expérience acquise. Ceux-ci permettent au praticien de définir le montant de ses honoraires. Le médecin peut décider de fixer, en fonction de ces critères, le prix de l'acte en utilisant un facteur multiplicatif du montant de base de l'acte, ou de n'appliquer aucun complément.
       </div>
     </div>
   </div>
@@ -57,7 +57,7 @@
       <div class="panel-body">
           Quelque soit le montant des dépassements, l'Assurance Maladie n'en supporte jamais les frais. Si vous n'avez pas de mutuelle complémentaire, le complément d'honoraire sera à votre charge.<br>
           <br>
-          Si vous avez une mutuelle complémentaire, cela dépend du type de contrat que vous avez souscrit. S'il est spécifié que votre mutuelle rembourse 100 % du tarif opposable, cela signifie qu'aucun complément d'honoraire ne sera remboursé. Un remboursement 200 % du tarif opposable implique que vous sera remboursé intégralement jusqu'à 2 fois le montant de base de l'acte.
+          Si vous avez une mutuelle complémentaire, cela dépendra du type de contrat que vous avez souscrit. S'il est spécifié que votre mutuelle rembourse 100 % du tarif opposable, cela signifie qu'aucun complément d'honoraire ne sera remboursé. Un remboursement à 200 % du tarif opposable implique que vous serez remboursé intégralement jusqu'à 2 fois le montant de base de l'acte.
       </div>
     </div>
 
