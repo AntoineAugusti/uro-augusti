@@ -47,7 +47,7 @@
     <div class="panel panel-default">
       <div class="panel-heading">Comment sont fixés les honoraires ?</div>
       <div class="panel-body">
-        Les principaux critères de jugements sont la difficulté technique, la durée de l'acte opératoire, le degré de spécialisation, la qualification et l'expérience acquise. Ceux-ci permettent au praticien de définir le montant de ses honoraires. Le médecin peut décider, en fonction de ces critères de multiplier par un facteur multiplicatif le montant de base de l'acte, ou de n'appliquer aucun complément.
+        Les principaux critères de jugements sont la difficulté technique, la durée de l'acte opératoire, le degré de spécialisation, la qualification et l'expérience acquise. Ceux-ci permettent au praticien de définir le montant de ses honoraires. Le médecin peut décider de fixer en fonction de ces critères le prix de l'acte en utilisant un facteur multiplicatif du montant de base de l'acte, ou de n'appliquer aucun complément.
       </div>
     </div>
   </div>
