@@ -82,6 +82,11 @@
         76000 Rouen<br>
       </div>
 
+      <h3>Particularités</h3>
+      <p>
+        Utilisation des lasers urologiques non disponibles sur le territoire de santé de Dieppe. Destruction des calculs "in situ" et surtout traitement par <a href="http://urofrance.org/nc/lurologie-grandpublic/fiches-patient/resultats-de-la-recherche/html/vaporisation-dadenome-prostatique-par-laser-greenlight.html">photovaporisation laser de l'hypertrophie bénigne de la prostate</a> possiblement en ambulatoire.
+      </p>
+
       <h3>Accès</h3>
       <p>
         Un parking gratuit pendant 1h est disponible devant la clinique. Des places handicapées sont à votre disposition si vous êtes en situation de handicap. Un système de vidéosurveillance est en place.
