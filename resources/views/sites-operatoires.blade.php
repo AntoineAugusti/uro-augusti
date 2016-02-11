@@ -52,6 +52,11 @@
         76550 Saint-Aubin-sur-Scie<br>
       </div>
 
+      <h3>Particularités</h3>
+      <p>
+        Prise en charge des pathologies urologiques féminines ayant une composante gynécologique notamment cancérologique. Traitement des prolapsus (descente d'organes), réalisation des <a href="http://urofrance.org/nc/lurologie-grandpublic/fiches-patient/resultats-de-la-recherche/html/examen-urodynamique.html">bilans urodynamiques</a>.
+      </p>
+
       <h3>Accès</h3>
       <p>
         Un parking gratuit est disponible devant la clinique. Des places handicapées sont à votre disposition si vous êtes en situation de handicap. Un système de vidéosurveillance est en place.
