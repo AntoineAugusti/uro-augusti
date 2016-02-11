@@ -35,4 +35,9 @@ class PagesController extends Controller
     {
         return view('hospitalisation')->withTitle("L'hospitalisation");
     }
+
+    public function liensUtiles()
+    {
+        return view('liens-utiles')->withTitle("Liens utiles");
+    }
 }

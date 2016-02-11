@@ -13,7 +13,7 @@
         Une fois la consultation d'anesthésie faites, il faudra alors passer à la phase d'admission. Cela se passe au "bureau des admissions" des différents établissements. La prise en charge administrative nécessite une pièce d'identité, votre carte vitale à jour et la "prise en charge" de votre mutuelle.
       </p>
 
-      <h1>Charte du patient hospitalisé</h1>
+      <h2>Charte du patient hospitalisé</h2>
       <p>
         L'objectif de la présente charte est de faire connaître aux personnes malades, accueillies dans les établissements de santé, leurs droits essentiels tels qu'ils sont affirmés par les lois aux droits des malades et à la qualité du système de santé.
       </p>
