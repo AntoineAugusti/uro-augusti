@@ -5,6 +5,8 @@ Liste des pages :
 - **Accueil**: [resources/views/welcome](resources/views/welcome.blade.php)
 - **Consultations**: [resources/views/consultations](resources/views/consultations.blade.php)
 - **Contact**: [resources/views/contact](resources/views/contact.blade.php)
+- **Équipe**: [resources/views/equipe](resources/views/equipe.blade.php)
+- **Hospitalisation**: [resources/views/hospitalisation](resources/views/hospitalisation.blade.php)
 - **Informations légales**: [resources/views/juridique](resources/views/juridique.blade.php)
 - **Sites opératoires**: [resources/views/sites-operatoires](resources/views/sites-operatoires.blade.php)
 
