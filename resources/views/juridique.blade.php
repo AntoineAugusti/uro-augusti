@@ -5,7 +5,7 @@
   <div class="col-md-4">
   <h2>Responsabilité</h2>
     <p>
-      Le Docteur Michel Augusti est responsable de ce site internet. Le contenu est élaboré et maintenu à jour par le Docteur Michel Augusti. Antoine Augusti est responsable de sa mise en œuvre technique.
+      Le Docteur Michel Augusti est responsable de ce site internet. Le contenu est élaboré et maintenu à jour par le Docteur Michel Augusti. <a href="https://www.antoine-augusti.fr">Antoine Augusti</a> est responsable de sa mise en œuvre technique.
     </p>
 
   <h2>Confidentialité</h2>
