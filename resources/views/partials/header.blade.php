@@ -4,17 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Le Dr Michel Augusti est un chirugien urologue exerçant dans la région dieppoise et rouennaise.">
+    <meta name="description" content="{!! $description !!}">
     <meta name="author" content="Michel Augusti"/>
 
     <meta name="google-site-verification" content="yIrmHc13V2t9G-Boeq4ES83JmLnUFGugld0I8KjIFRA" />
-    <link rel="publisher" content="https://plus.google.com/113939250764481617219" />
+    <link rel="publisher" href="https://plus.google.com/113939250764481617219" />
 
-    @if (isset($title))
-        <title>{{ $title }} - Dr Michel Augusti</title>
-    @else
-        <title>Docteur Michel Augusti</title>
-    @endif
+    <title>{{ $title }} - Dr Michel Augusti</title>
 
     <link rel="stylesheet" href="{{ elixir('assets/css/all.css') }}">
     <!--[if lt IE 9]>

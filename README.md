@@ -2,7 +2,7 @@
 Cliquer sur le lien correspondant à la page que l'on veut modifier.
 
 Liste des pages :
-- **Accueil**: [resources/views/welcome](resources/views/welcome.blade.php)
+- **Accueil**: [resources/views/home](resources/views/home.blade.php)
 - **Consultations**: [resources/views/consultations](resources/views/consultations.blade.php)
 - **Contact**: [resources/views/contact](resources/views/contact.blade.php)
 - **Équipe**: [resources/views/equipe](resources/views/equipe.blade.php)
