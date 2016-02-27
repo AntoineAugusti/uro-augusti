@@ -13,6 +13,6 @@
 
     </div>
 
-    <!-- <script src="{{ elixir('assets/js/app.js') }}"></script> -->
+    <script src="{{ elixir('assets/js/app.js') }}"></script>
 </body>
 </html>
