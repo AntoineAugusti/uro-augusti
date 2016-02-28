@@ -16,7 +16,7 @@ class PagesController extends Controller
     ];
 
     private $descriptions = [
-        'consultations' => 'Déroulement des consultations, modalités de prise en charge et honoraires pratiqués par le Dr Michel Augusti',
+        'consultations' => 'Déroulement des consultations, documents à préparer, modalités de prise en charge et honoraires pratiqués par le Dr Michel Augusti',
         'contact' => "Prise de rendez-vous pour consultation avec le Dr Michel Augusti et demande d'informations",
         'equipe' => "Présentation de l'équipe assistant le Dr Michel Augusti, chirurgien urologue",
         'home' => 'Le Dr Michel Augusti est un chirurgien urologue exerçant dans la région dieppoise et rouennaise. Cancérologie, andrologie, incontinences et troubles urinaires, prolapsus, lithiases.',
