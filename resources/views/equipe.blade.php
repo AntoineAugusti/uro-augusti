@@ -13,7 +13,7 @@
         <hr class="equipe">
 
         <div class="col-md-6 col-vertical-center">
-            L'équipe du bloc de Mégival. De gauche à droite : Pascaline, Mylène, Villem, Florian, Karine, Nolvenn.
+            L'équipe du bloc de Mégival. De gauche à droite : Pascaline, Mylène, Villem, Florian, Karine, Nolwenn.
         </div>
         <div class="col-md-6 col-vertical-center">
             <img class="img-responsive img-rounded" src="assets/images/equipe-bloc.jpg" alt="Équipe du bloc opératoire">
