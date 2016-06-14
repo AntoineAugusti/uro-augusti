@@ -1,4 +1,4 @@
-@extends('partials.master')
+@extends('partials.master', ['title' => 'Cette page est introuvable', 'description' => 'La page est introuvable'])
 
 @section('content')
     <h2 class="margin-bottom-30">Il n'y a rien ici</h2>
