@@ -2,7 +2,6 @@
 .sass-cache
 /node_modules
 /vendor
-public/assets/css/all.css.map
-public/build/assets/css/all.css.map
+*.map
 resources/assets/css/app.css
 public/assets/css/all.css
