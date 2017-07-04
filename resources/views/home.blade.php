@@ -21,7 +21,7 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Prise de rendez-vous</h2>
-            <p>Le Docteur Michel Augusti consulte à la clinique Mégival, située en périphérie de la ville de Dieppe. La prise de rendez-vous se fait auprès de Roselyne, secrétaire dédiée à l'urologie.</p>
+            <p>Le Docteur Michel Augusti consulte à la clinique Mégival, située en périphérie de la ville de Dieppe. La prise de rendez-vous se fait auprès de Roselyne, secrétaire dédiée à l'urologie ou <a href="{{ config('app.doctolib_url') }}" title="Rendez-vous sur Doctolib"> en ligne sur Doctolib</a>.</p>
             <a class="btn btn-default" href="{{ route('contact') }}">Plus d'informations</a>
         </div>
         <div class="col-md-4">
