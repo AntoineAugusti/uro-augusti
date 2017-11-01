@@ -20,6 +20,7 @@
         <a href="tel:+33276203070">02 76 20 30 70</a>
       </p>
       <p>
+      <h3>Horaires d'ouverture du secrétariat</h3>
       <table class="table table-striped">
         <thead>
           <tr>
