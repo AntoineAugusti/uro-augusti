@@ -27,7 +27,7 @@
           <h3 class="panel-title">Mise en garde</h3>
         </div>
         <div class="panel-body">
-          L'envoi d'un email au Docteur Augusti n'est pas un moyen d'obtenir des renseignements de nature médicale et <b>ne permet pas de prendre des rendez-vous</b>. La prise de rendez-vous s'effectue uniquement <a href="{{ route('contact') }}">par téléphone</a>.
+          L'envoi d'un email au Docteur Augusti n'est pas un moyen d'obtenir des renseignements de nature médicale et <b>ne permet pas de prendre des rendez-vous</b>. La prise de rendez-vous s'effectue <a href="{{ route('contact') }}"> en ligne via Doctolib ou par téléphone</a>.
         </div>
       </div>
 
