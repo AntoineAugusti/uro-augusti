@@ -13,6 +13,7 @@ class PagesController extends Controller
         'juridique' => 'Informations juridiques',
         'liens-utiles' => 'Liens utiles',
         'sites-operatoires' => 'Sites opératoires',
+        'pathologies' => 'Pathologies prises en charge',
     ];
 
     private $descriptions = [
@@ -24,6 +25,7 @@ class PagesController extends Controller
         'juridique' => 'Informations légales, contacts juridiques, respect de la déontologie médicale',
         'liens-utiles' => "Liens utiles pour approfondir votre connaissance de l'urologie et de l'activité du Dr Michel Augusti.",
         'sites-operatoires' => "Lieux d'exercice du Dr Michel Augusti en région Haute-Normandie. Consultations et bloc opératoires à Dieppe et Rouen.",
+        'pathologies' => "Description des pathologies prises en charge par le Dr Michel Augusti dans les différents sites.",
     ];
 
     private function generalView($viewName)
@@ -69,6 +71,11 @@ class PagesController extends Controller
     public function hospitalisation()
     {
         return $this->generalView('hospitalisation');
+    }
+
+    public function pathologies()
+    {
+        return $this->generalView('pathologies');
     }
 
     public function liensUtiles()

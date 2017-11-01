@@ -25,4 +25,7 @@ Route::group(['middleware' => []], function () {
     Route::get('liens-utiles', [
         'as' => 'liens-utiles', 'uses' => 'PagesController@liensUtiles',
     ]);
+    Route::get('pathologies', [
+        'as' => 'pathologies', 'uses' => 'PagesController@pathologies',
+    ]);
 });
