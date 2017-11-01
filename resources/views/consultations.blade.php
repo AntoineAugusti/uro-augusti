@@ -6,7 +6,7 @@
     <h1>Consultations</h1>
   </div>
   <div class="col-md-6">
-    <h3>Prise de rendez-vous</h3>
+    <h3><a href="{{ route('contact') }}">Comment prendre rendez-vous</a></h3>
     <p>
       Les consultations se font exclusivement par rendez-vous sur le site de la Clinique Mégival. Vous pouvez consulter directement sans passer par votre médecin traitant, mais dans ce cas, vous aurez un remboursement moindre par l'Assurance Maladie. Si vous êtes en suivi, il n'y a pas besoin de courrier de la part de votre médecin traitant.
     </p>

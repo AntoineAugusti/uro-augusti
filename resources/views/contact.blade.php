@@ -5,8 +5,20 @@
 @section('content')
 <div class="row">
     <div class="col-md-6">
-      <h2>Secrétariat</h2>
-      <p>La prise de rendez-vous peut s'effectuer en passant par le secrétariat téléphonique ou <a href="{{ config('app.doctolib_url') }}" title="Rendez-vous sur Doctolib"> en ligne sur Doctolib</a>. Les horaires d'ouverture du secrétariat du Docteur Michel Augusti sont les suivantes.</p>
+      <h2>En ligne</h2>
+      <p>
+        Il est possible de prendre rendez-vous <a href="{{ config('app.doctolib_url') }}" title="Rendez-vous sur Doctolib">sur le site web de Doctolib</a>.
+      </p>
+
+      <h2>Par téléphone</h2>
+      <p>La prise de rendez-vous peut s'effectuer également par le secrétariat téléphonique. Les horaires d'ouverture du secrétariat du Docteur Michel Augusti sont les suivantes.</p>
+      <p>
+        Prise de rendez-vous par téléphone :
+        <button type="button" class="btn secretariat-contact" aria-label="Téléphone">
+          <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+        </button>
+        <a href="tel:+33276203070">02 76 20 30 70</a>
+      </p>
       <p>
       <table class="table table-striped">
         <thead>
@@ -38,19 +50,6 @@
           </tr>
         </tbody>
       </table>
-      </p>
-      <p>
-        Prise de rendez-vous par téléphone :
-        <button type="button" class="btn secretariat-contact" aria-label="Téléphone">
-          <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-        </button>
-        <a href="tel:+33276203070">02 76 20 30 70</a>
-        <br>
-        Prise de rendez-vous en ligne :
-        <button type="button" class="btn secretariat-contact" aria-label="Internet">
-          <span class="glyphicon glyphicon-cloud" aria-hidden="true"></span>
-        </button>
-        <a href="{{ config('app.doctolib_url') }}" title="Rendez-vous sur Doctolib">Doctolib</a>
       </p>
 
       <div class="panel panel-info">
