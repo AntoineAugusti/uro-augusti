@@ -13,28 +13,20 @@
         <hr class="equipe">
 
         <div class="col-md-6 col-vertical-center">
-            L'équipe du bloc de Mégival. De gauche à droite : Pascaline, Mylène, Villem, Florian, Karine, Nolwenn.
+            Roselyne Stallin, la secrétaire médicale dédiée à l'urologie.
         </div>
-        <div class="col-md-6 col-vertical-center">
-            <img class="img-responsive img-rounded" src="assets/images/equipe-bloc.jpg" alt="Équipe du bloc opératoire">
-        </div>
-
-        <hr class="equipe">
 
         <div class="col-md-6 col-vertical-center">
             <img class="img-responsive img-rounded" src="assets/images/roselyne.jpg" alt="Roselyne Stallin">
         </div>
-        <div class="col-md-6 col-vertical-center">
-            Roselyne Stallin, la secrétaire médicale dédiée à l'urologie.
-        </div>
 
         <hr class="equipe">
 
         <div class="col-md-6 col-vertical-center">
-            Béatrice, aide opératoire.
+            <img class="img-responsive img-rounded" src="assets/images/beatrice.jpg" alt="Béatrice">
         </div>
         <div class="col-md-6 col-vertical-center">
-            <img class="img-responsive img-rounded" src="assets/images/beatrice.jpg" alt="Béatrice">
+            Béatrice, aide opératoire.
         </div>
 
     </div>
