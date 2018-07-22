@@ -10,6 +10,8 @@
           L'ensemble des dossiers médicaux est discuté en Réunion de Concertation Pluridisciplinaire (<a href="https://www.has-sante.fr/portail/upload/docs/application/pdf/2013-02/reunion_de_concertation_pluridisciplinaire_fiche_technique_2013_01_31.pdf">RCP</a>).<br>
           Les décisions sont conformes aux <a href="http://www.urofrance.org/outils-et-recommandations/recommandations/recommandations-afu/classees-par-annee.html">recommandations de l'Association Française d'Urologie</a>.
         </p>
+        <img class="img-responsive img-rounded center-block" src="assets/images/laser-tumeur.png" alt="Laser sur une tumeur" style="max-width: 200px">
+        <p class="text-center">Laser sur une tumeur</p>
       </div>
       <div class="col-md-4">
         <h3>Chirurgie des calculs urinaires</h3>
@@ -17,7 +19,7 @@
           La clinique Mégival est équipée de différents lasers permettant le traitement des <b>calculs urinaires</b> par les voies naturelles mais aussi par abord per-cutané (site de Saint Hilaire) ainsi que d'un lithotriteur mobile au sein d'un GIE.
         </p>
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/y37ePk0urT8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/y37ePk0urT8?rel=0&start=180" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
       </div>
       <div class="col-md-4">
