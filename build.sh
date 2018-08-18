@@ -11,14 +11,14 @@ pages=(consultations contact equipe hospitalisation juridique liens-utiles patho
 )
 for page in "${pages[@]}"
 do
-  wget "$BASE/$page" -O "build/$page.html"
-  echo "/$page $page.html" >> build/_redirects
+  wget "$BASE/$page" -O - -q | sed 's|http://127.0.0.1:8000|https://www.uro-augusti.fr|g' > "build/$page.html"
+  echo "/$page /$page.html 200" >> build/_redirects
 done
 
-wget $BASE/robots.txt -O build/robots.txt
-wget $BASE/ -O build/index.html
+wget $BASE/robots.txt -q -O build/robots.txt
+wget $BASE/ -O - -q | sed 's|http://127.0.0.1:8000|https://www.uro-augusti.fr|g' > build/index.html
 
-echo "/ index.html" >> build/_redirects
+echo "/ /index.html 200" >> build/_redirects
 
 mkdir -p build/build/assets
 cp -R public/build/assets build/build/
