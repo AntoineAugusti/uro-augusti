@@ -16,7 +16,6 @@ do
   echo "/$page /$page.html 200" >> build/_redirects
 done
 
-wget $BASE/robots.txt -q -O build/robots.txt
 wget $BASE/ -O - -q | sed "s|$BASE|$TARGET|g" > build/index.html
 
 echo "/ /index.html 200" >> build/_redirects
@@ -24,5 +23,7 @@ echo "/ /index.html 200" >> build/_redirects
 mkdir -p build/build/assets
 cp -R public/build/assets build/build/
 cp -R public/assets/ build/assets/
+cp public/favicon.ico build/
+cp public/robots.txt build/
 
 kill "${pid}"
