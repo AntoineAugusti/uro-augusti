@@ -1,6 +1,7 @@
 BASE='http://127.0.0.1:8000'
 
-php artisan serve --port 8000&
+php artisan serve --port 8000&> /dev/null &
+pid=$!
 sleep 2
 
 rm -rf build
@@ -22,4 +23,4 @@ echo "/ index.html" >> build/_redirects
 mkdir -p build/build/assets
 cp -R public/build/assets build/build/
 
-killall php
+kill "${pid}"
