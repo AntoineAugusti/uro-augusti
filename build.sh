@@ -1,4 +1,5 @@
 BASE='http://127.0.0.1:8000'
+TARGET='https://www.uro-augusti.fr'
 
 php artisan serve --port 8000&> /dev/null &
 pid=$!
@@ -11,12 +12,12 @@ pages=(consultations contact equipe hospitalisation juridique liens-utiles patho
 )
 for page in "${pages[@]}"
 do
-  wget "$BASE/$page" -O - -q | sed 's|http://127.0.0.1:8000|https://www.uro-augusti.fr|g' > "build/$page.html"
+  wget "$BASE/$page" -O - -q | sed "s|$BASE|$TARGET|g" > "build/$page.html"
   echo "/$page /$page.html 200" >> build/_redirects
 done
 
 wget $BASE/robots.txt -q -O build/robots.txt
-wget $BASE/ -O - -q | sed 's|http://127.0.0.1:8000|https://www.uro-augusti.fr|g' > build/index.html
+wget $BASE/ -O - -q | sed "s|$BASE|$TARGET|g" > build/index.html
 
 echo "/ /index.html 200" >> build/_redirects
 
