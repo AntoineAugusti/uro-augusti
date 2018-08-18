@@ -22,5 +22,6 @@ echo "/ /index.html 200" >> build/_redirects
 
 mkdir -p build/build/assets
 cp -R public/build/assets build/build/
+cp -R public/assets/ build/assets/
 
 kill "${pid}"
