@@ -19,7 +19,7 @@
           La clinique Mégival est équipée de différents lasers permettant le traitement des <b>calculs urinaires</b> par les voies naturelles mais aussi par abord per-cutané (site de Saint Hilaire) ainsi que d'un lithotriteur mobile au sein d'un GIE.
         </p>
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/y37ePk0urT8?rel=0&start=180" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/y37ePk0urT8?start=180" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
       </div>
       <div class="col-md-4">
