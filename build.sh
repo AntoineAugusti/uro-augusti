@@ -18,7 +18,7 @@ done
 
 wget $BASE/ -O - -q | sed "s|$BASE|$TARGET|g" > build/index.html
 
-echo "/ /index.html 200" >> build/_redirects
+echo "/ /index.html 200!" >> build/_redirects
 
 mkdir -p build/build/assets
 cp -R public/build/assets build/build/
