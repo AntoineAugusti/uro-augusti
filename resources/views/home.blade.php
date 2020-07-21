@@ -3,6 +3,7 @@
 @section('content')
     <!-- Heading Row -->
     <div class="row">
+        @include('partials.banner')
         <div class="col-md-4 col-vertical-center">
             <img class="img-responsive img-rounded" src="assets/images/michel-augusti.jpg" alt="Michel Augusti">
         </div>

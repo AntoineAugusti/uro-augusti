@@ -14,6 +14,7 @@ class PagesController extends Controller
         'liens-utiles' => 'Liens utiles',
         'sites-operatoires' => 'Sites opératoires',
         'pathologies' => 'Pathologies prises en charge',
+        'covid-19' => 'Mesures en place suite au COVID-19'
     ];
 
     private $descriptions = [
@@ -26,6 +27,7 @@ class PagesController extends Controller
         'liens-utiles' => "Liens utiles pour approfondir votre connaissance de l'urologie et de l'activité du Dr Michel Augusti.",
         'sites-operatoires' => "Lieux d'exercice du Dr Michel Augusti en région Haute-Normandie. Consultations et bloc opératoires à Dieppe et Rouen.",
         'pathologies' => "Description des pathologies prises en charge par le Dr Michel Augusti dans les différents sites.",
+        'covid-19' => 'Pendant la durée de la crise COVID des mesures de protections et de sécurités sont mises en place'
     ];
 
     private function generalView($viewName)
@@ -81,5 +83,10 @@ class PagesController extends Controller
     public function liensUtiles()
     {
         return $this->generalView('liens-utiles');
+    }
+
+    public function covid()
+    {
+        return $this->generalView('covid-19');
     }
 }
