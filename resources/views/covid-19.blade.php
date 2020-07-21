@@ -15,7 +15,7 @@
 
     <h3>Opération</h3>
     <p>
-      Si une opération est planifiée, vous devez remplir <a href="https://www.urofrance.org/sites/default/files/afu_fiche-covid.pdf" target="_blank">un formulaire d'information</a> lié au risque du COVID-19. Vous pouvez adresser ce formulaire par e-mail ou l'apportez lors de votre rendez-vous.
+      Si une opération est planifiée, vous devez remplir <a href="https://www.urofrance.org/sites/default/files/afu_fiche-covid.pdf" target="_blank">un formulaire d'information</a> lié au risque du COVID-19. Vous pouvez adresser ce formulaire par e-mail ou l'apporter lors de votre rendez-vous.
     </p>
   </div>
 </div>
