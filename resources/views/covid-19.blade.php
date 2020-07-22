@@ -10,7 +10,7 @@
 
     <h3>Consultation</h3>
     <p>
-      Avant toute consultation, veuillez remplir le <a href="https://sites.google.com/view/accueil-etb-vs/accueil-meg" target="_blank">formulaire d'auto-évaluation du risque COVID</a>. Conservez l'identifiant qui vous sera attribué et imprimez le résultat de ce questionnaire. Ces informations seront demandées lors de votre accueil.
+      Avant toute consultation, veuillez remplir le <a href="https://sites.google.com/view/accueil-etb-vs/accueil-meg" target="_blank">formulaire d'auto-évaluation du risque COVID</a>. Conservez l'identifiant qui vous sera attribué, il vous sera demandé lors de votre accueil.
     </p>
 
     <h3>Opération</h3>
