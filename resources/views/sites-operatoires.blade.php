@@ -41,36 +41,6 @@
 
 <hr>
 
-{{-- Les Aubépines --}}
-<div class="row">
-    <div class="col-md-6">
-      <h2><span class="badge badge-lieu">Dieppe</span> Clinique des Aubépines</h2>
-        La <a href="http://www.clinique-des-aubepines.fr/html/chirurgie.htm" title="Clinique des Aubépines">clinique des Aubépines</a> est située en périphérie de Dieppe, à proximité de la Clinique Mégival, à l'adresse suivante :<br>
-      <div class="adresse-physique">
-        Clinique des Aubépines<br>
-        300 rue de la Providence<br>
-        76550 Saint-Aubin-sur-Scie<br>
-      </div>
-
-      <h3>Particularités</h3>
-      <p>
-        Prise en charge des pathologies urologiques féminines ayant une composante gynécologique notamment cancérologique. Traitement des prolapsus (descente d'organes), réalisation des <a href="http://urofrance.org/nc/lurologie-grandpublic/fiches-patient/resultats-de-la-recherche/html/examen-urodynamique.html">bilans urodynamiques</a>.
-      </p>
-
-      <h3>Accès</h3>
-      <p>
-        Un parking gratuit est disponible devant la clinique. Des places handicapées sont à votre disposition si vous êtes en situation de handicap. Un système de vidéosurveillance est en place.
-      </p>
-    </div>
-    <div class="col-md-6">
-      <div class="google-maps margin-top-50">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.0298752420795!2d1.0739837159526124!3d49.898242434879634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e0a278619b1b5f%3A0x8374127f98ca94c4!2sCliniques+des+Aub%C3%A9pines!5e0!3m2!1sfr!2sfr!4v1453201748924" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-      </div>
-    </div>
-</div>
-
-<hr>
-
 {{-- Saint-Hilaire --}}
 <div class="row">
     <div class="col-md-6">
