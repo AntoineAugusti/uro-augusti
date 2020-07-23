@@ -54,7 +54,8 @@
 
       <h3>Particularités</h3>
       <p>
-        Utilisation des lasers urologiques non disponibles sur le territoire de santé de Dieppe. Destruction des calculs "in situ" et traitement par <a href="http://urofrance.org/nc/lurologie-grandpublic/fiches-patient/resultats-de-la-recherche/html/vaporisation-dadenome-prostatique-par-laser-greenlight.html">photovaporisation laser de l'hypertrophie bénigne de la prostate</a> possiblement en ambulatoire.
+        Utilisation de certains types de lasers urologiques (prostate, calculs, tumeurs, possibilité de chirurgie percutanée du rein et utilisation de la technique Rezum® pour la prostate), non disponibles sur le territoire de santé de Dieppe. Destruction des calculs "in situ" et traitement par <a href="http://urofrance.org/nc/lurologie-grandpublic/fiches-patient/resultats-de-la-recherche/html/vaporisation-dadenome-prostatique-par-laser-greenlight.html">photovaporisation laser de l'hypertrophie bénigne de la prostate</a> possiblement en ambulatoire.
+
       </p>
 
       <h3>Accès</h3>
