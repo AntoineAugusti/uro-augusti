@@ -29,6 +29,6 @@ Route::group(['middleware' => []], function () {
         'as' => 'pathologies', 'uses' => 'PagesController@pathologies',
     ]);
     Route::get('covid-19', [
-        'as' => 'pathologies', 'uses' => 'PagesController@covid',
+        'as' => 'covid-19', 'uses' => 'PagesController@covid',
     ]);
 });
