@@ -10,8 +10,8 @@ Route::group(['middleware' => []], function () {
     Route::get('juridique', [
         'as' => 'juridique', 'uses' => 'PagesController@juridique',
     ]);
-    Route::get('sites-operatoires', [
-        'as' => 'sites-operatoires', 'uses' => 'PagesController@sitesOperatoires',
+    Route::get('hospitalisation', [
+        'as' => 'hospitalisation', 'uses' => 'PagesController@hospitalisation',
     ]);
     Route::get('consultations', [
         'as' => 'consultations', 'uses' => 'PagesController@consultations',

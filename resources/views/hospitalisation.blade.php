@@ -4,13 +4,50 @@
 
 @section('content')
   <div class="row">
-    <div class="col-xs-12">
+
+    <div class="col-lg-12">
+      <h2>Sites opératoires</h2>
+      <p>Le Docteur Michel Augusti, chirurgien urologue, intervient à la clinique Mégival.</p>
+    </div>
+
+    {{-- Mégival --}}
+    <div class="col-md-6">
+      <h2><span class="badge badge-lieu">Dieppe</span> Clinique Mégival</h2>
+        La <a href="http://www.megival.com" title="Clinique Mégival">clinique Mégival</a> est située en périphérie de Dieppe, à l'adresse suivante :<br>
+      <div class="adresse-physique">
+        Clinique Mégival<br>
+        1328 avenue de la Maison Blanche<br>
+        76550 Saint-Aubin-sur-Scie<br>
+      </div>
+      <h3>Accès</h3>
+      <p>
+        Un parking gratuit est disponible devant la clinique. Des places handicapées sont à votre disposition si vous êtes en situation de handicap. Un système de vidéosurveillance est en place.
+      </p>
+      <p>
+        La clinique est accessible par <a href="http://www.stradibus.fr/horaires_ligne/?rub_code=6&thm_id=16&lign_id=49">la ligne 1</a> du réseau de bus Stradibus à l'arrêt <em>Clinique Mégival</em>, du lundi au samedi. Les dimanches et fêtes, vous devrez utiliser la <a href="http://www.stradibus.fr/horaires_ligne/?rub_code=6&thm_id=16&lign_id=43">ligne 14</a> pour vous rendre à l'arrêt <em>Val Druel</em> puis parcourir 1,5 km à pieds.
+      </p>
+
+      <p>
+        <a class="btn btn-default" href="{{ route('contact') }}">Prendre rendez-vous</a>
+      </p>
+    </div>
+    <div class="col-md-6">
+      <div class="google-maps margin-top-50">
+        <img class="img-responsive img-rounded" src="assets/images/clinique-megival.jpg" alt="Clinique Mégival">
+      </div>
+    </div>
+
+    <div class="col-md-8 col-md-push-2">
       <h1>Préparation à l'hospitalisation</h1>
       <p>
         En cas d'anesthésie, vous devez préalablement voir un anesthésiste dans la clinique où vous serez pris en charge. Il faut alors venir avec votre dossier médical, la fiche d'admission et les résultats des examens complémentaires et radiographies disponibles. Les prise de rendez-vous se font par téléphone, la plupart du temps par un secrétariat téléphonique dédié.
       </p>
       <p>
         Une fois la consultation d'anesthésie faites, il faudra alors passer à la phase d'admission. Cela se passe au "bureau des admissions" des différents établissements. La prise en charge administrative nécessite une pièce d'identité, votre carte vitale à jour et la "prise en charge" de votre mutuelle.
+      </p>
+
+      <p>
+        Par ailleurs, <b>vous devrez obligatoirement passer au secrétariat du Docteur Augusti</b> pour déposer la fiche de consentement à l'intervention chirurgicale (fiche AFU), que vous aurez reçue au préalable. En cas de dépassements d'honoraires, vous devrez également remettre votre devis signé.
       </p>
 
       <h2>Charte du patient hospitalisé</h2>

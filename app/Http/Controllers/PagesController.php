@@ -12,7 +12,7 @@ class PagesController extends Controller
         'hospitalisation' => "L'hospitalisation",
         'juridique' => 'Informations juridiques',
         'liens-utiles' => 'Liens utiles',
-        'sites-operatoires' => 'Sites opératoires',
+        'hospitalisation' => 'Hospitalisation',
         'pathologies' => 'Pathologies prises en charge',
         'covid-19' => 'Mesures en place suite au COVID-19'
     ];
@@ -25,7 +25,6 @@ class PagesController extends Controller
         'hospitalisation' => "Déroulement de l'hospitalisation, papiers nécessaires et bien-être lors de votre séjour en clinique.",
         'juridique' => 'Informations légales, contacts juridiques, respect de la déontologie médicale',
         'liens-utiles' => "Liens utiles pour approfondir votre connaissance de l'urologie et de l'activité du Dr Michel Augusti.",
-        'sites-operatoires' => "Lieux d'exercice du Dr Michel Augusti en région Haute-Normandie. Consultations et bloc opératoires à Dieppe et Rouen.",
         'pathologies' => "Description des pathologies prises en charge par le Dr Michel Augusti dans les différents sites.",
         'covid-19' => 'Pendant la durée de la crise COVID des mesures de protections et de sécurités sont mises en place'
     ];

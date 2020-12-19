@@ -12,9 +12,9 @@
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="{{ route('consultations') }}" title="Consultations">Consultations</a></li>
         <li><a href="{{ route('pathologies') }}" title="Pathlogies prises en charge">Pathlogies prises en charge</a></li>
-        <li><a href="{{ route('sites-operatoires') }}" title="Sites opératoires">Sites opératoires</a></li>
+        <li><a href="{{ route('consultations') }}" title="Consultations">Consultations</a></li>
+        <li><a href="{{ route('hospitalisation') }}" title="Hospitalisation">Hospitalisation</a></li>
         <li><a href="{{ route('equipe') }}" title="L'équipe">L'équipe</a></li>
         <li><a href="{{ route('contact') }}" title="Contact et prise de rendez-vous">Contact</a></li>
         <li><a href="{{ route('liens-utiles') }}" title="Liens utiles">Liens utiles</a></li>

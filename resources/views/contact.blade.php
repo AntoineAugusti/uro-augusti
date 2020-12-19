@@ -35,7 +35,7 @@
           </tr>
           <tr data-day=2>
             <td>Mardi</td>
-            <td>9h-13h et 14h-17h</td>
+            <td>9h-12h et 14h-17h</td>
           </tr>
           <tr data-day=3>
             <td>Mercredi</td>
@@ -43,11 +43,11 @@
           </tr>
           <tr data-day=4>
             <td>Jeudi</td>
-            <td>9h-13h et 14h-17h</td>
+            <td>9h-12h et 14h-17h</td>
           </tr>
           <tr data-day=5>
             <td>Vendredi</td>
-            <td>9h-13h et 14h-16h</td>
+            <td>9h-12h et 14h-16h</td>
           </tr>
         </tbody>
       </table>
@@ -74,12 +74,8 @@
         76550 Saint-Aubin-sur-Scie<br>
       </div>
       <div class="google-maps">
-        <iframe width="500" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Clinique+M%C3%A9gival+1328+avenue+de+la+Maison+Blanche+76550+Saint-Aubin-sur-Scie&amp;aq=&amp;sll=49.897509,1.073828&amp;sspn=0.030464,0.084028&amp;ie=UTF8&amp;hq=Clinique+M%C3%A9gival+1328+avenue+de+la+Maison+Blanche+76550+Saint-Aubin-sur-Scie&amp;hnear=&amp;radius=15000&amp;t=m&amp;cid=17129801944216765867&amp;ll=49.895298,1.078377&amp;spn=0.066349,0.171318&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
+        <img class="img-responsive img-rounded" src="assets/images/clinique-megival.jpg" alt="Clinique Mégival">
       </div>
-
-      <p>
-        <a class="btn btn-default" href="{{ route('sites-operatoires') }}">Tous les sites opératoires</a>
-      </p>
     </div>
 </div>
 @stop

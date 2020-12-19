@@ -35,7 +35,7 @@
     <div class="col-md-6">
       <h2>Montant des honoraires</h2>
       <p>
-        Le Docteur Michel Augusti est un chirurgien spécialiste <em>conventionné secteur 2</em>. Les tarifs usuellement pratiqués par le Docteur Michel Augusti sont visibles sur <a href="http://annuairesante.ameli.fr/nouvelle-recherche/professionnels-de-sante.html">le site de l'Assurance Maladie</a>. Le montant des honoraires est fixé en consultation et un devis est établi et vous sera expliqué. Il mentionne la codification de l'acte, le montant de base et le montant d'un éventuel complément d'honoraire.
+        Le Docteur Michel Augusti est un chirurgien spécialiste <em>conventionné secteur 2 non adhérent à l'<abbr title="Option pratique tarifaire maîtrisée">OPTAM</abbr></em>. Les tarifs usuellement pratiqués par le Docteur Michel Augusti sont visibles sur <a href="http://annuairesante.ameli.fr/nouvelle-recherche/professionnels-de-sante.html">le site de l'Assurance Maladie</a>. Le montant des honoraires est fixé en consultation et un devis est établi et vous sera expliqué. Il mentionne la codification de l'acte, le montant de base et le montant d'un éventuel complément d'honoraire.
       </p>
       <p>
         Ce devis vous permet lors d'un simple appel téléphonique à votre mutuelle d'obtenir le montant de votre remboursement et ce qui restera éventuellement à votre charge (<abbr title="Reste à Charge">RAC</abbr>).
@@ -53,9 +53,9 @@
 <div class="row margin-top-50">
   <div class="col-md-4">
     <div class="panel panel-default">
-      <div class="panel-heading">Qu'appelle-t-on le secteur 2 ? </div>
+      <div class="panel-heading">Qu'appelle-t-on le secteur 2 / non adhérent à l'OPTAM ? </div>
       <div class="panel-body">
-        Les tarifs pratiqués par les médecins exerçant en secteur 2, sont libres et fixés par le médecin, avec, selon les exigences de la caisse d'Assurance Maladie, tact et mesure. Les médecins exerçant en secteur 2 ont une importante majoration (par comparaison à leurs confrères du secteur 1) de leur cotisations sociales obligatoires : URSSAF, Caisse de retraite, Assurance Maladie.
+        Les tarifs pratiqués par les médecins conventionnés secteur 2 non adhérent à l'OPTAM, sont libres et fixés par le médecin, avec, selon les exigences de la caisse d'Assurance Maladie, tact et mesure. Les médecins exerçant en secteur 2 ont une importante majoration (par comparaison à leurs confrères du secteur 1) de leur cotisations sociales obligatoires : URSSAF, Caisse de retraite, Assurance Maladie.
       </div>
     </div>
   </div>

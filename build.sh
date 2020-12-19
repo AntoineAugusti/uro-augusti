@@ -8,7 +8,7 @@ sleep 2
 rm -rf build
 mkdir build
 
-pages=(consultations contact equipe hospitalisation juridique liens-utiles pathologies sites-operatoires covid-19)
+pages=(consultations contact equipe hospitalisation juridique liens-utiles pathologies hospitalisation covid-19)
 for page in "${pages[@]}"
 do
   wget "$BASE/$page" -O - -q | sed "s|$BASE|$TARGET|g" > "build/$page.html"
