@@ -31,23 +31,23 @@
         <tbody>
           <tr data-day=1>
             <td>Lundi</td>
-            <td>9h-12h</td>
+            <td>Fermé</td>
           </tr>
           <tr data-day=2>
             <td>Mardi</td>
-            <td>9h-12h et 14h-17h</td>
+            <td>9h-15h</td>
           </tr>
           <tr data-day=3>
             <td>Mercredi</td>
-            <td>9h-12h</td>
+            <td>Fermé</td>
           </tr>
           <tr data-day=4>
             <td>Jeudi</td>
-            <td>9h-12h et 14h-17h</td>
+            <td>9h-15h</td>
           </tr>
           <tr data-day=5>
             <td>Vendredi</td>
-            <td>9h-12h et 14h-16h</td>
+            <td>Fermé</td>
           </tr>
         </tbody>
       </table>
