@@ -65,7 +65,7 @@
       </div>
     </div>
     <div class="col-md-6">
-      <h2>Clinique de la Côte d'Albâtre</h2>
+      <h2>Clinique de la Côte d'Albâtre (anciennement Clinique Mégival)</h2>
       <p>
         Le Docteur Michel Augusti consulte à la Clinique de la Côte d'Albâtre. La clinique de la Côte d'Albâtre est située en périphérie de Dieppe, à l'adresse suivante :<br>
       <div class="adresse-physique">

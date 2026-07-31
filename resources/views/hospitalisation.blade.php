@@ -12,7 +12,7 @@
 
     {{-- Clinique de la Côte d'Albâtre --}}
     <div class="col-md-6">
-      <h2><span class="badge badge-lieu">Dieppe</span> Clinique de la Côte d'Albâtre</h2>
+      <h2><span class="badge badge-lieu">Dieppe</span> Clinique de la Côte d'Albâtre (anciennement Clinique Mégival)</h2>
         La <a href="http://www.megival.com" title="Clinique de la Côte d'Albâtre">clinique de la Côte d'Albâtre</a> est située en périphérie de Dieppe, à l'adresse suivante :<br>
       <div class="adresse-physique">
         Clinique de la Côte d'Albâtre<br>
