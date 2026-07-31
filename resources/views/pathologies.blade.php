@@ -6,7 +6,7 @@
       <div class="col-md-4">
         <h3>Cancérologie urologique</h3>
         <p>
-          L'activité chirurgicale permet à la clinique de la Côte d'Albâtre d'être accréditée par la <abbr title="Haute Autorité de la santé">HAS</abbr> pour la prise en charge de la cancérologie urologique quel que soit l'organe concerné (rein, vessie, testicule, prostate, glandes surrénales).<br>
+          L'activité chirurgicale permet à la clinique de la Côte d'Albâtre (anciennement Clinique Mégival) d'être accréditée par la <abbr title="Haute Autorité de la santé">HAS</abbr> pour la prise en charge de la cancérologie urologique quel que soit l'organe concerné (rein, vessie, testicule, prostate, glandes surrénales).<br>
           L'ensemble des dossiers médicaux est discuté en Réunion de Concertation Pluridisciplinaire (<a href="https://www.has-sante.fr/portail/upload/docs/application/pdf/2013-02/reunion_de_concertation_pluridisciplinaire_fiche_technique_2013_01_31.pdf">RCP</a>).<br>
           Les décisions sont conformes aux <a href="http://www.urofrance.org/outils-et-recommandations/recommandations/recommandations-afu/classees-par-annee.html">recommandations de l'Association Française d'Urologie</a>.
         </p>

@@ -8,7 +8,7 @@
   <div class="col-md-6">
     <a href="{{ route('contact') }}"><h3>Comment prendre rendez-vous</h3></a>
     <p>
-      Les consultations se font exclusivement par rendez-vous sur le site de la Clinique de la Côte d'Albâtre. Vous pouvez consulter directement sans passer par votre médecin traitant, mais dans ce cas, vous aurez un remboursement moindre par l'Assurance Maladie. Si vous êtes en suivi, il n'y a pas besoin de courrier de la part de votre médecin traitant.
+      Les consultations se font exclusivement par rendez-vous sur le site de la Clinique de la Côte d'Albâtre (anciennement Clinique Mégival). Vous pouvez consulter directement sans passer par votre médecin traitant, mais dans ce cas, vous aurez un remboursement moindre par l'Assurance Maladie. Si vous êtes en suivi, il n'y a pas besoin de courrier de la part de votre médecin traitant.
     </p>
     <a class="btn btn-default" href="{{ route('contact') }}">Prendre rendez-vous</a>
   </div>
@@ -18,7 +18,7 @@
     <p>
       Si vous avez une <u>lettre</u> de votre médecin traitant ou d'un autre médecin, pensez à l'apporter. Apportez toujours l'<u>ordonnance de votre traitement</u> en cours, les radiographies et les autres examens (prise de sang, analyses d'urines...) déjà effectués.<br>
       <br>
-      Si vous avez des problèmes de fréquence ou de perte d'urine, il sera utile de réaliser <a href="assets/documents/catalogue-mictionnel.pdf" title="Catalogue mictionnel">un catalogue mictionnel</a> ou un <a href="assets/documents/pad-test.pdf" title="Questionnaire du Pad Test">Pad Test</a>. Vous pouvez également remplir <a href="assets/documents/questionnaire-symptomes-urinaires.pdf" title="Questionnaire du Pad Test">le questionnaire de symptômes urinaires</a> ainsi que le <a href="assets/images/svpi.png" title="Score Visuel Prostatique en Images">Score Visuel Prostatique en Images</a>.
+      Si vous avez des problèmes de fréquence ou de perte d'urine, il sera utile de réaliser <a href="assets/documents/catalogue-mictionnel.pdf" title="Catalogue mictionnel">un catalogue mictionnel</a> ou un <a href="assets/documents/pad-test.pdf" title="Questionnaire du Pad Test">Pad Test</a>. Vous pouvez également remplir <a href="assets/documents/questionnaire-symptomes-urinaires.pdf" title="Questionnaire du Pad Test">le questionnaire de symptômes urinaires</a> ainsi que le <a href="assets/images/svpi.png" title="Score Visuel Prostatique en Images" target="_blank">Score Visuel Prostatique en Images</a>.
     </p>
   </div>
 </div>

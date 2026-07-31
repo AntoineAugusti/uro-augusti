@@ -7,7 +7,7 @@
 
     <div class="col-lg-12">
       <h2>Sites opératoires</h2>
-      <p>Le Docteur Michel Augusti, chirurgien urologue, intervient à la clinique de la Côte d'Albâtre.</p>
+      <p>Le Docteur Michel Augusti, chirurgien urologue, intervient à la clinique de la Côte d'Albâtre (anciennement Clinique Mégival).</p>
     </div>
 
     {{-- Clinique de la Côte d'Albâtre --}}

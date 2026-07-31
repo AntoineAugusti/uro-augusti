@@ -58,7 +58,7 @@
           <h3 class="panel-title">Mise en garde</h3>
         </div>
         <div class="panel-body">
-          Pendant la fermeture du secrétariat, appelez si besoin la Clinique de la Côte d'Albâtre au <a href="tel:+33276203040">02 76 20 30 40</a>.<br>
+          Pendant la fermeture du secrétariat, appelez si besoin la Clinique de la Côte d'Albâtre (anciennement Clinique Mégival) au <a href="tel:+33276203040">02 76 20 30 40</a>.<br>
           <br>
           Le secrétariat n'est pas un moyen d'obtenir des renseignements de nature médicale. En cas de situation urgente ou confuse, contactez les urgences en téléphonant au <a href="tel:15">15</a> ou au <a href="tel:122">112</a>.
         </div>
