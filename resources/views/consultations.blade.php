@@ -18,7 +18,7 @@
     <p>
       Si vous avez une <u>lettre</u> de votre médecin traitant ou d'un autre médecin, pensez à l'apporter. Apportez toujours l'<u>ordonnance de votre traitement</u> en cours, les radiographies et les autres examens (prise de sang, analyses d'urines...) déjà effectués.<br>
       <br>
-      Si vous avez des problèmes de fréquence ou de perte d'urine, il sera utile de réaliser <a href="assets/documents/catalogue-mictionnel.pdf" title="Catalogue mictionnel">un catalogue mictionnel</a> ou un <a href="assets/documents/pad-test.pdf" title="Questionnaire du Pad Test">Pad Test</a>. Vous pouvez également remplir <a href="assets/documents/questionnaire-symptomes-urinaires.pdf" title="Questionnaire du Pad Test">le questionnaire de symptômes urinaires</a>.
+      Si vous avez des problèmes de fréquence ou de perte d'urine, il sera utile de réaliser <a href="assets/documents/catalogue-mictionnel.pdf" title="Catalogue mictionnel">un catalogue mictionnel</a> ou un <a href="assets/documents/pad-test.pdf" title="Questionnaire du Pad Test">Pad Test</a>. Vous pouvez également remplir <a href="assets/documents/questionnaire-symptomes-urinaires.pdf" title="Questionnaire du Pad Test">le questionnaire de symptômes urinaires</a> ainsi que le <a href="assets/images/svpi.png" title="Score Visuel Prostatique en Images">Score Visuel Prostatique en Images</a>.
     </p>
   </div>
 </div>

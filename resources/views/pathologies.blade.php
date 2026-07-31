@@ -25,7 +25,7 @@
       <div class="col-md-4">
         <h3>Chirurgie de la prostate</h3>
         <p>
-           La clinique de la Côte d'Albâtre dispose du matériel nécessaire pour traiter <b>l'hypertrophie de la prostate</b> par <b>laser</b> (<i>Green Light</i>). La plupart des interventions peuvent se faire en hospitalisation courte ou ambulatoire. Les autres techniques (résection endoscopique) sont pratiquées. En ce qui concerne la technique ambulatoire par <a href="assets/documents/rezum.pdf" title="Rezum">Rezum</a> (traitement par injections intra-prostatiques de vapeur d'eau), celle-ci se fait sur le site de Saint-Hilaire.
+           La clinique de la Côte d'Albâtre dispose du matériel nécessaire pour traiter <b>l'hypertrophie de la prostate</b> par <b>laser</b> (<i>Green Light</i>). La plupart des interventions peuvent se faire en hospitalisation courte ou ambulatoire. Les autres techniques (résection endoscopique) sont pratiquées. En ce qui concerne la technique ambulatoire par <a href="assets/documents/rezum.pdf" title="Rezum" target="_blank">Rezum</a> (traitement par injections intra-prostatiques de vapeur d'eau), celle-ci se fait sur le site de Saint-Hilaire.
         </p>
       </div>
     </div>
