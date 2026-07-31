@@ -1,9 +1,15 @@
 BASE='http://127.0.0.1:8000'
 TARGET='https://www.uro-augusti.fr'
 
-php artisan serve --port 8000&> /dev/null &
+php artisan serve --port 8000 &> serve.log &
 pid=$!
 sleep 2
+
+if ! kill -0 "${pid}" 2>/dev/null; then
+  echo "php artisan serve failed to start:"
+  cat serve.log
+  exit 1
+fi
 
 rm -rf build
 mkdir build
@@ -25,4 +31,4 @@ cp -R public/assets/ build/assets/
 cp public/favicon.ico build/
 cp public/robots.txt build/
 
-kill "${pid}"
+kill "${pid}" 2>/dev/null || true
