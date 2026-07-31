@@ -1,6 +1,8 @@
 BASE='http://127.0.0.1:8000'
 TARGET='https://www.uro-augusti.fr'
 
+composer install
+
 php artisan serve --port 8000 &> serve.log &
 pid=$!
 sleep 2
