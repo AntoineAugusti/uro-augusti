@@ -7,15 +7,15 @@
 
     <div class="col-lg-12">
       <h2>Sites opératoires</h2>
-      <p>Le Docteur Michel Augusti, chirurgien urologue, intervient à la clinique Mégival.</p>
+      <p>Le Docteur Michel Augusti, chirurgien urologue, intervient à la clinique de la Côte d'Albâtre.</p>
     </div>
 
-    {{-- Mégival --}}
+    {{-- Clinique de la Côte d'Albâtre --}}
     <div class="col-md-6">
-      <h2><span class="badge badge-lieu">Dieppe</span> Clinique Mégival</h2>
-        La <a href="http://www.megival.com" title="Clinique Mégival">clinique Mégival</a> est située en périphérie de Dieppe, à l'adresse suivante :<br>
+      <h2><span class="badge badge-lieu">Dieppe</span> Clinique de la Côte d'Albâtre</h2>
+        La <a href="http://www.megival.com" title="Clinique de la Côte d'Albâtre">clinique de la Côte d'Albâtre</a> est située en périphérie de Dieppe, à l'adresse suivante :<br>
       <div class="adresse-physique">
-        Clinique Mégival<br>
+        Clinique de la Côte d'Albâtre<br>
         1328 avenue de la Maison Blanche<br>
         76550 Saint-Aubin-sur-Scie<br>
       </div>
@@ -24,7 +24,7 @@
         Un parking gratuit est disponible devant la clinique. Des places handicapées sont à votre disposition si vous êtes en situation de handicap. Un système de vidéosurveillance est en place.
       </p>
       <p>
-        La clinique est accessible par <a href="http://www.stradibus.fr/horaires_ligne/?rub_code=6&thm_id=16&lign_id=49">la ligne 1</a> du réseau de bus Stradibus à l'arrêt <em>Clinique Mégival</em>, du lundi au samedi. Les dimanches et fêtes, vous devrez utiliser la <a href="http://www.stradibus.fr/horaires_ligne/?rub_code=6&thm_id=16&lign_id=43">ligne 14</a> pour vous rendre à l'arrêt <em>Val Druel</em> puis parcourir 1,5 km à pieds.
+        La clinique est accessible par <a href="https://www.deepmob.fr/fr/fiches-horaires/1012">la ligne 1</a> du réseau de bus DeepMob à l'arrêt <em>Clinique de la Côte d'Albâtre</em>, du lundi au samedi. Les dimanches et fêtes, vous devrez utiliser la <a href="https://www.deepmob.fr/fr/fiches-horaires/1012">ligne 15</a> pour vous rendre à l'arrêt <em>Val Druel</em> puis parcourir 1,5 km à pieds.
       </p>
 
       <p>
@@ -33,7 +33,7 @@
     </div>
     <div class="col-md-6">
       <div class="google-maps margin-top-50">
-        <img class="img-responsive img-rounded" src="assets/images/clinique-megival.jpg" alt="Clinique Mégival">
+        <img class="img-responsive img-rounded" src="assets/images/clinique-megival.jpg" alt="Clinique de la Côte d'Albâtre">
       </div>
     </div>
 

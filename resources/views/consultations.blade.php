@@ -8,7 +8,7 @@
   <div class="col-md-6">
     <a href="{{ route('contact') }}"><h3>Comment prendre rendez-vous</h3></a>
     <p>
-      Les consultations se font exclusivement par rendez-vous sur le site de la Clinique Mégival. Vous pouvez consulter directement sans passer par votre médecin traitant, mais dans ce cas, vous aurez un remboursement moindre par l'Assurance Maladie. Si vous êtes en suivi, il n'y a pas besoin de courrier de la part de votre médecin traitant.
+      Les consultations se font exclusivement par rendez-vous sur le site de la Clinique de la Côte d'Albâtre. Vous pouvez consulter directement sans passer par votre médecin traitant, mais dans ce cas, vous aurez un remboursement moindre par l'Assurance Maladie. Si vous êtes en suivi, il n'y a pas besoin de courrier de la part de votre médecin traitant.
     </p>
     <a class="btn btn-default" href="{{ route('contact') }}">Prendre rendez-vous</a>
   </div>

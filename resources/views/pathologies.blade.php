@@ -6,7 +6,7 @@
       <div class="col-md-4">
         <h3>Cancérologie urologique</h3>
         <p>
-          L'activité chirurgicale permet à la clinique Mégival d'être accréditée par la <abbr title="Haute Autorité de la santé">HAS</abbr> pour la prise en charge de la cancérologie urologique quel que soit l'organe concerné (rein, vessie, testicule, prostate, glandes surrénales).<br>
+          L'activité chirurgicale permet à la clinique de la Côte d'Albâtre d'être accréditée par la <abbr title="Haute Autorité de la santé">HAS</abbr> pour la prise en charge de la cancérologie urologique quel que soit l'organe concerné (rein, vessie, testicule, prostate, glandes surrénales).<br>
           L'ensemble des dossiers médicaux est discuté en Réunion de Concertation Pluridisciplinaire (<a href="https://www.has-sante.fr/portail/upload/docs/application/pdf/2013-02/reunion_de_concertation_pluridisciplinaire_fiche_technique_2013_01_31.pdf">RCP</a>).<br>
           Les décisions sont conformes aux <a href="http://www.urofrance.org/outils-et-recommandations/recommandations/recommandations-afu/classees-par-annee.html">recommandations de l'Association Française d'Urologie</a>.
         </p>
@@ -16,7 +16,7 @@
       <div class="col-md-4">
         <h3>Chirurgie des calculs urinaires</h3>
         <p>
-          La clinique Mégival est équipée de différents lasers permettant le traitement des <b>calculs urinaires</b> par les voies naturelles mais aussi par abord per-cutané (site de Saint Hilaire) ainsi que d'un lithotriteur mobile au sein d'un GIE.
+          La clinique de la Côte d'Albâtre est équipée de différents lasers permettant le traitement des <b>calculs urinaires</b> par les voies naturelles mais aussi par abord per-cutané (site de Saint Hilaire) ainsi que d'un lithotriteur mobile au sein d'un GIE.
         </p>
         <div class="embed-responsive embed-responsive-16by9">
           <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/y37ePk0urT8?start=180" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -25,7 +25,7 @@
       <div class="col-md-4">
         <h3>Chirurgie de la prostate</h3>
         <p>
-           La clinique Mégival dispose du matériel nécessaire pour traiter <b>l'hypertrophie de la prostate</b> par <b>laser</b> (<i>Green Light</i>). La plupart des interventions peuvent se faire en hospitalisation courte ou ambulatoire. Les autres techniques (résection endoscopique) sont pratiquées.
+           La clinique de la Côte d'Albâtre dispose du matériel nécessaire pour traiter <b>l'hypertrophie de la prostate</b> par <b>laser</b> (<i>Green Light</i>). La plupart des interventions peuvent se faire en hospitalisation courte ou ambulatoire. Les autres techniques (résection endoscopique) sont pratiquées. En ce qui concerne la technique ambulatoire par Rezum (traitement par injections intra-prostatiques de vapeur d'eau), celle-ci se fait sur le site de Saint-Hilaire.
         </p>
       </div>
     </div>
@@ -33,7 +33,7 @@
       <div class="col-md-6">
         <h3>Chirurgie urologique pédiatrique</h3>
         <p>
-          Du fait de sa formation à l’hôpital Necker Enfants Malades, le Dr Augusti est formé à la chirurgie urologique pédiatrique. Ceci concerne aussi bien les problèmes de verge chez l'enfant (adhérences, posthectomie et circoncision rituelle) mais aussi les problèmes testiculaires ou les infections urinaires récidivantes.
+          Du fait de sa formation à l’hôpital Necker Enfants Malades, le Dr Augusti est formé à la chirurgie urologique pédiatrique. Ceci concerne aussi bien les problèmes de verge chez l'enfant (circoncision rituelle) mais aussi les problèmes testiculaires ou les infections urinaires récidivantes. Le diagnostic se fait en consultation, mais certaines interventions seront réalisées sur un autre site.
         </p>
       </div>
       <div class="col-md-6">
