@@ -40,10 +40,13 @@
     <div class="col-md-8 col-md-push-2">
       <h1>Préparation à l'hospitalisation</h1>
       <p>
-        En cas d'anesthésie, vous devez préalablement voir un anesthésiste dans la clinique où vous serez pris en charge. Il faut alors venir avec votre dossier médical, la fiche d'admission et les résultats des examens complémentaires et radiographies disponibles. Les prise de rendez-vous se font par téléphone, la plupart du temps par un secrétariat téléphonique dédié.
+        En cas d'anesthésie, vous devez préalablement voir un anesthésiste dans la clinique où vous serez pris en charge. Il faut alors venir avec votre dossier médical, la fiche d'admission et les résultats des examens complémentaires et radiographies disponibles. Les prise de rendez-vous se font par téléphone, la plupart du temps par un secrétariat téléphonique dédié : <a href="tel:0276203120">02 76 20 31 20</a>.
       </p>
       <p>
         Une fois la consultation d'anesthésie faites, il faudra alors passer à la phase d'admission. Cela se passe au "bureau des admissions" des différents établissements. La prise en charge administrative nécessite une pièce d'identité, votre carte vitale à jour et la "prise en charge" de votre mutuelle.
+      </p>
+      <p>
+        Pour faciliter cette étape, vous pouvez télécharger l'application de préadmission et effectuer vos démarches en ligne avant votre hospitalisation. Plus d'informations sur <a href="https://www.vivalto-sante.fr/preparer-sa-preadmission/" target="_blank" rel="noopener">la page dédiée à la préadmission</a>.
       </p>
 
       <p>

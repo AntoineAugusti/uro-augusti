@@ -18,7 +18,7 @@
     <p>
       Si vous avez une <u>lettre</u> de votre médecin traitant ou d'un autre médecin, pensez à l'apporter. Apportez toujours l'<u>ordonnance de votre traitement</u> en cours, les radiographies et les autres examens (prise de sang, analyses d'urines...) déjà effectués.<br>
       <br>
-      Si vous avez des problèmes de fréquence ou de perte d'urine, il sera utile de réaliser <a href="assets/documents/catalogue-mictionnel.pdf" title="Catalogue mictionnel">un catalogue mictionnel</a> ou un <a href="assets/documents/pad-test.pdf" title="Questionnaire du Pad Test">Pad Test</a>. Vous pouvez également remplir <a href="assets/documents/questionnaire-symptomes-urinaires.pdf" title="Questionnaire du Pad Test">le questionnaire de symptômes urinaires</a> ainsi que le <a href="assets/images/svpi.png" title="Score Visuel Prostatique en Images" target="_blank">Score Visuel Prostatique en Images</a>.
+      Si vous avez des problèmes de fréquence ou de perte d'urine, il sera utile de réaliser <a href="assets/documents/catalogue-mictionnel.pdf" title="Catalogue mictionnel" target="_blank" rel="noopener">un catalogue mictionnel</a> ou un <a href="assets/documents/pad-test.pdf" title="Questionnaire du Pad Test" target="_blank" rel="noopener">Pad Test</a>. Vous pouvez également remplir <a href="assets/documents/questionnaire-symptomes-urinaires.pdf" title="Questionnaire du Pad Test" target="_blank" rel="noopener">le questionnaire de symptômes urinaires</a> ainsi que le <a href="assets/images/svpi.png" title="Score Visuel Prostatique en Images" target="_blank" rel="noopener">Score Visuel Prostatique en Images</a>.
     </p>
   </div>
 </div>
@@ -35,7 +35,7 @@
     <div class="col-md-6">
       <h2>Montant des honoraires</h2>
       <p>
-        Le Docteur Michel Augusti est un chirurgien spécialiste <em>conventionné secteur 2 non adhérent à l'<abbr title="Option pratique tarifaire maîtrisée">OPTAM</abbr></em>. Les tarifs usuellement pratiqués par le Docteur Michel Augusti sont visibles sur <a href="http://annuairesante.ameli.fr/nouvelle-recherche/professionnels-de-sante.html">le site de l'Assurance Maladie</a>. Le montant des honoraires est fixé en consultation et un devis est établi et vous sera expliqué. Il mentionne la codification de l'acte, le montant de base et le montant d'un éventuel complément d'honoraire.
+        Le Docteur Michel Augusti est un chirurgien spécialiste <em>conventionné secteur 2 non adhérent à l'<abbr title="Option pratique tarifaire maîtrisée">OPTAM</abbr></em>. Les tarifs usuellement pratiqués par le Docteur Michel Augusti sont visibles sur <a href="https://annuairesante.ameli.fr" target="_blank" rel="noopener">le site de l'Assurance Maladie</a>. Le montant des honoraires est fixé en consultation et un devis est établi et vous sera expliqué. Il mentionne la codification de l'acte, le montant de base et le montant d'un éventuel complément d'honoraire.
       </p>
       <p>
         Ce devis vous permet lors d'un simple appel téléphonique à votre mutuelle d'obtenir le montant de votre remboursement et ce qui restera éventuellement à votre charge (<abbr title="Reste à Charge">RAC</abbr>).
